@@ -1,6 +1,7 @@
 # My Personal Website
 
 Welcome to my personal website! This repository contains the source code and assets for my website, where I showcase my work, share my thoughts, and provide information about myself. Feel free to explore and use this template for your own personal website.
+This page will mostly be used for Python/Selenium testing purposes.
 
 ## Table of Contents
 
